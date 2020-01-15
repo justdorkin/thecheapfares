@@ -1,0 +1,12 @@
+.App-header {
+    display: block; 
+    margin-bottom: 0px; 
+    overflow-wrap: break-word;
+    text-align: center
+  }
+  
+  .App-logo {
+    height: 30vmin;
+    pointer-events: none;
+  }
+  
